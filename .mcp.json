@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "test-mcp": {
+    "rag-mcp": {
       "command": "uv",
       "args": [
         "run",
