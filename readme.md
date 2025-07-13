@@ -47,5 +47,11 @@ uv mcp install main.py
 ## MCP in Claude Code installieren
 `.mcp.json` im Projektordner ablegen für Projektweites MCP
 
+Alternativ, wenns schon in Claude Desktop installiert ist:
+```bash
+claude mcp add-from-claude-desktop
+```
+Aber hab ich noch nicht getestet. 
+
 Für globales siehe https://docs.anthropic.com/en/docs/claude-code/mcp
 
